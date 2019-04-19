@@ -1,3 +1,3 @@
 # GMA
 
-Cite: Chao Ning, Dan Wang, Lei Zhou, Huimin Kang, Shengli Zhang, Jian Yang, Jian-Feng Liu. Efficient Multivariate Analysis Algorithms for Longitudinal Genome-wide Association Studies. bioRxiv. doi: https://doi.org/10.1101/394197.
+Chao Ning, Dan Wang, Lei Zhou, Julong Wei, Yuanxin Liu, Huimin Kang, Shengli Zhang, Xiang Zhou, Shizhong Xu and Jian-Feng Liu. Efficient Multivariate Analysis Algorithms for Longitudinal Genome-wide Association Studies. *Bioinformatics*, 2019.
